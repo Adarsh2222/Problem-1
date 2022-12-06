@@ -1,2 +1,2 @@
-Figma
+Figma,
 Adobe illustrator
